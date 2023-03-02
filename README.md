@@ -1,0 +1,2 @@
+- A side project to put my GSAP knowledge into action.
+- It is completely responsive.
